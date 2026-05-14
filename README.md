@@ -174,5 +174,5 @@ Bu loyiha **MIT litsenziyasi** asosida tarqatiladi. Batafsil ma'lumot uchun [LIC
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/AcoderM">AcoderM</a>
+Made with ❤️ by <a href="https://github.com/AcoderM-tech">AcoderM</a>
 </div>
